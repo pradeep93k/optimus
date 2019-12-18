@@ -1,5 +1,5 @@
 # optimus
--point 1
+  
 
 
 
@@ -14,3 +14,4 @@
 print("Hello Word")
 ```
  
+
